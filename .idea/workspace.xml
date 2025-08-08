@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="403e7d05-f096-4bfa-9f5c-115c11482f8d" name="更改" comment="项目基础结构" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "zhaoyijun1"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/zhaoyijun1/java-web-template.git",
+    "accountId": "49a06322-2696-45f9-9b3f-d06621a29a14"
+  }
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Users\zyj\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cWwuIBgjSMYmq8PSi200aEZax6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "JPA.DatabaseSchemaImportDialog": "4c08c592-2ed3-49ee-8a74-1322033e64c8",
+    "JUnit.PdfTest.executor": "Run",
+    "JUnit.PdfTest.updatePageNumberTest.executor": "Run",
+    "Maven.admin [clean].executor": "Run",
+    "Maven.admin [compile].executor": "Run",
+    "Maven.java-web-template [clean].executor": "Run",
+    "Maven.java-web-template [compile].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.DemoApp.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "last_opened_file_path": "D:/workspace/idea/java-web-template/zyj-common/src/main/resources/fonts",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.33021516",
+    "settings.editor.selected.configurable": "com.codeium.AppSettingsConfigurable",
+    "spring.configuration.checksum": "fa0b052a882a129caf0ec53eb0bcea72",
+    "ts.external.directory.path": "D:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.3.3\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.CodeExecSeqTest$ExecutionOrder.executor": "Run",
+    "应用程序.SecretUtil.executor": "Run"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\idea\java-web-template\zyj-common\src\main\resources\fonts" />
+      <recent name="D:\workspace\idea\java-web-demo\demo-admin\src\test\java\com\demo" />
+      <recent name="D:\workspace\idea\java-web-demo\admin\src\test\java\com\zyj\math" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\idea\java-web-demo\app\src\main\java\com\zyj" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.zyj.utils" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zyj.common.utils" />
+      <recent name="com.zyj.handler" />
+      <recent name="com.zyj.system.controller" />
+      <recent name="com.zyj.config" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PdfTest.updatePageNumberTest">
+    <configuration name="CodeExecSeqTest$ExecutionOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zyj.clazz.CodeExecSeqTest$ExecutionOrder" />
+      <module name="zyj-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyj.clazz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CodeExecSeqTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zyj.test.clazz.CodeExecSeqTest" />
+      <module name="zyj-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyj.test.clazz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecretUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zyj.security.utils.SecretUtil" />
+      <module name="zyj-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyj.security.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PdfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zyj-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyj.test.demo.pdf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zyj.test.demo.pdf" />
+      <option name="MAIN_CLASS_NAME" value="com.zyj.test.demo.pdf.PdfTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PdfTest.updatePageNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zyj-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zyj.test.demo.pdf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zyj.test.demo.pdf" />
+      <option name="MAIN_CLASS_NAME" value="com.zyj.test.demo.pdf.PdfTest" />
+      <option name="METHOD_NAME" value="updatePageNumberTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="zyj-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zyj.DemoApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.PdfTest" />
+      <item itemvalue="JUnit.PdfTest.updatePageNumberTest" />
+      <item itemvalue="Spring Boot.DemoApp" />
+      <item itemvalue="应用程序.CodeExecSeqTest$ExecutionOrder" />
+      <item itemvalue="应用程序.SecretUtil" />
+      <item itemvalue="应用程序.CodeExecSeqTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PdfTest.updatePageNumberTest" />
+        <item itemvalue="JUnit.PdfTest" />
+        <item itemvalue="应用程序.CodeExecSeqTest$ExecutionOrder" />
+        <item itemvalue="应用程序.SecretUtil" />
+        <item itemvalue="应用程序.CodeExecSeqTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.27812.49" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.27812.49" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="403e7d05-f096-4bfa-9f5c-115c11482f8d" name="更改" comment="" />
+      <created>1708240866576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708240866576</updated>
+      <workItem from="1708240867688" duration="1131000" />
+      <workItem from="1708244080386" duration="29000" />
+      <workItem from="1708244166730" duration="2053000" />
+      <workItem from="1708525223312" duration="684000" />
+      <workItem from="1709563820634" duration="1343000" />
+      <workItem from="1709649906136" duration="3742000" />
+      <workItem from="1709653671484" duration="252000" />
+      <workItem from="1709653955347" duration="1784000" />
+      <workItem from="1709731876618" duration="451000" />
+      <workItem from="1709732341223" duration="5507000" />
+      <workItem from="1711501824171" duration="3175000" />
+      <workItem from="1711508480196" duration="4421000" />
+      <workItem from="1711588037360" duration="7585000" />
+      <workItem from="1711609889011" duration="9344000" />
+      <workItem from="1711681527343" duration="25822000" />
+      <workItem from="1712106168196" duration="21889000" />
+      <workItem from="1712454740580" duration="1860000" />
+      <workItem from="1712536571142" duration="13000" />
+      <workItem from="1712628004485" duration="6666000" />
+      <workItem from="1713938161533" duration="4466000" />
+      <workItem from="1716776143950" duration="5874000" />
+      <workItem from="1718160052790" duration="475000" />
+      <workItem from="1718160539018" duration="43000" />
+      <workItem from="1718160616083" duration="4813000" />
+      <workItem from="1718246991773" duration="800000" />
+      <workItem from="1718289826833" duration="619000" />
+      <workItem from="1719371357948" duration="1833000" />
+      <workItem from="1719883363484" duration="2462000" />
+      <workItem from="1720445599633" duration="1544000" />
+      <workItem from="1720447692303" duration="986000" />
+      <workItem from="1722057577070" duration="2039000" />
+      <workItem from="1722086771715" duration="1361000" />
+      <workItem from="1724742167871" duration="2134000" />
+      <workItem from="1724806588495" duration="1023000" />
+      <workItem from="1724811728627" duration="8642000" />
+      <workItem from="1724892948753" duration="3598000" />
+      <workItem from="1726130461007" duration="603000" />
+      <workItem from="1748268323904" duration="38000" />
+      <workItem from="1750903153582" duration="21945000" />
+      <workItem from="1751247904588" duration="10170000" />
+      <workItem from="1751338417382" duration="39000" />
+      <workItem from="1752647344777" duration="250000" />
+      <workItem from="1752825186798" duration="29000" />
+      <workItem from="1754461937037" duration="8000" />
+      <workItem from="1754461958831" duration="940000" />
+      <workItem from="1754462911218" duration="3815000" />
+      <workItem from="1754466744201" duration="4481000" />
+      <workItem from="1754471260082" duration="78000" />
+      <workItem from="1754471347551" duration="282000" />
+      <workItem from="1754471639040" duration="1600000" />
+      <workItem from="1754473257205" duration="154000" />
+      <workItem from="1754473420894" duration="418000" />
+      <workItem from="1754473846722" duration="1394000" />
+      <workItem from="1754488419569" duration="2673000" />
+      <workItem from="1754526610020" duration="30767000" />
+      <workItem from="1754574536935" duration="35000" />
+      <workItem from="1754574689400" duration="3108000" />
+      <workItem from="1754613129791" duration="16156000" />
+      <workItem from="1754635071838" duration="299000" />
+      <workItem from="1754635438215" duration="78000" />
+      <workItem from="1754635537321" duration="588000" />
+      <workItem from="1754636156083" duration="278000" />
+    </task>
+    <task id="LOCAL-00001" summary="项目基础结构">
+      <option name="closed" value="true" />
+      <created>1754634072521</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754634072521</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.pub" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.key" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="bf74d2ab-1b55-4f4f-881a-45821d20f908">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="f49be416-8b60-45e5-b463-0b9b01ecc380">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="native-ui-admin" />
+    <MESSAGE value="项目基础结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目基础结构" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.reflect.Field" memberName="type" />
+        <PinnedItemInfo parentTag="org.springframework.security.authentication.UsernamePasswordAuthenticationToken" memberName="authorities" />
+        <PinnedItemInfo parentTag="java.lang.Class" memberName="name" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
