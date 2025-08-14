@@ -1,0 +1,33 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+spring:
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/demo
+    username: root
+    password: pass
+    # HikariCP连接池配置
+    hikari:
+      minimum-idle: 5
+      maximum-pool-size: 20
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+      naming:
+        # 命名策略--显示命名
+        physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
+    open-in-view: true
+
+jwt:
+  secret: secret
+  expiration: 3600000
+
+logging:
+  file:
+    name: log/info.log
+  level:
+    root: INFO

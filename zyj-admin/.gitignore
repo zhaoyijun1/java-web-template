@@ -1,0 +1,17 @@
+# 编译生成文件
+/target/
+/build/
+
+# 日志文件
+*.log
+log/
+logs/
+
+# IDE 相关文件
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# 其他
+rebel.xml
