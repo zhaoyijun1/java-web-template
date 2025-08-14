@@ -29,7 +29,9 @@
 
         <jjwt.version>0.12.3</jjwt.version>
         <guava.version>33.4.8-jre</guava.version>
+
         <itextpdf.version>5.5.13</itextpdf.version>
+        <openpdf.version>2.4.0</openpdf.version>
         <pdfbox.version>3.0.5</pdfbox.version>
     </properties>
 
@@ -107,6 +109,13 @@
                 <groupId>org.apache.pdfbox</groupId>
                 <artifactId>pdfbox-tools</artifactId>
                 <version>${pdfbox.version}</version>
+            </dependency>
+
+            <!--OpenPDF -->
+            <dependency>
+                <groupId>com.github.librepdf</groupId>
+                <artifactId>openpdf</artifactId>
+                <version>${openpdf.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
